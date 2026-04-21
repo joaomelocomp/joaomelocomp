@@ -1,6 +1,13 @@
 Desenvolvedor BackEnd | FullStack 💻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomelocomp&show_icons=true&theme=transparent)
+<br>
+<div align="center">
+  <a href="https://github.com/joaomelocomp">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=joaomelocomp&show_icons=true&theme=transparent"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomelocomp&layout=compact&theme=transparent"/>
+  </a>
+</div>
+<br>
 
 <div> 
   
