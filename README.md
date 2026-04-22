@@ -14,6 +14,16 @@ Desenvolvedor BackEnd | FullStack 💻
   
 </div>
 
+<div align="center">
+  <img height="30em" src="https://cdn.simpleicons.org/python/EDEDED" style="margin-right:10px"/>
+  <img height="30em" src="https://cdn.simpleicons.org/flask/EDEDED" style="margin-right:10px"/>
+  <img height="30em" src="https://cdn.simpleicons.org/c/EDEDED" style="margin-right:10px"/>
+  <img height="30em" src="https://cdn.simpleicons.org/mysql/EDEDED" style="margin-right:10px"/>
+  <img height="30em" src="https://cdn.simpleicons.org/html5/EDEDED" style="margin-right:10px"/>
+  <img height="30em" src="https://cdn.simpleicons.org/css/EDEDED" style="margin-right:10px"/>
+  <img height="30em" src="https://cdn.simpleicons.org/nodedotjs/EDEDED" style="margin-right:10px"/>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaomelocomp/joaomelocomp/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaomelocomp/joaomelocomp/output/snake.svg">
