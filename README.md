@@ -18,7 +18,7 @@ Desenvolvedor BackEnd | FullStack 💻
   <img height="30em" src="https://cdn.simpleicons.org/python/EDEDED" style="margin-right:10px"/>
   <img height="30em" src="https://cdn.simpleicons.org/flask/EDEDED" style="margin-right:10px"/>
   <img height="30em" src="https://cdn.simpleicons.org/c/EDEDED" style="margin-right:10px"/>
-  <img height="30em" src="https://cdn.simpleicons.org/mysql/EDEDED" style="margin-right:10px"/>
+  <img height="30em" src="https://cdn.simpleicons.org/postgresql/EDEDED" style="margin-right:10px"/>
   <img height="30em" src="https://cdn.simpleicons.org/html5/EDEDED" style="margin-right:10px"/>
   <img height="30em" src="https://cdn.simpleicons.org/css/EDEDED" style="margin-right:10px"/>
   <img height="30em" src="https://cdn.simpleicons.org/nodedotjs/EDEDED" style="margin-right:10px"/>
