@@ -17,6 +17,7 @@ Desenvolvedor BackEnd | FullStack 💻
       <img height="30em" src="https://cdn.simpleicons.org/html5/EDEDED"/>
       <img height="30em" src="https://cdn.simpleicons.org/css/EDEDED"/>
       <img height="30em" src="https://cdn.simpleicons.org/nodedotjs/EDEDED"/>
+      <img height="30em" src="https://cdn.simpleicons.org/git/EDEDED"/>
     </td>
     <td align="right">
       <a href="mailto:joaogabriel.s.melo92@gmail.com">
