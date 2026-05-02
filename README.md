@@ -1,13 +1,5 @@
 Desenvolvedor BackEnd | FullStack 💻
 
-<div>
-  <a href="https://github.com/joaomelocomp">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=joaomelocomp&show_icons=true&theme=transparent"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomelocomp&layout=compact&theme=transparent"/>
-  </a>
-</div>
-<br>
-
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
